@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import MovieCard from './MovieCard';
 
-const API_KEY = 'your_api_key_here';
+const API_KEY = 'ed834efddee23023ecaf80bf196d54a0';
 
 const SearchPage = () => {
   const [query, setQuery] = useState('');
