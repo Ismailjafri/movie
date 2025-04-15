@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 
-const API_KEY = 'your_api_key_here';
+const API_KEY = 'ed834efddee23023ecaf80bf196d54a0';
 
 const MovieDetails = () => {
   const { id } = useParams();
